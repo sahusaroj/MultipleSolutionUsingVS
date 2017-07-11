@@ -14,6 +14,7 @@ namespace CopyPasteDemo
         [STAThread]
         static void Main()
         {          
+            //run the application
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new frmContractList());
