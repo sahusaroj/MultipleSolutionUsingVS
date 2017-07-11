@@ -14,6 +14,7 @@ namespace NewSolutionCreatedWithSameRep
         static void Main()
         {
             //comment added by saroj
+            //pending for code review
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
